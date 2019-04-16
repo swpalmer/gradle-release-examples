@@ -10,14 +10,14 @@ Fork the repository and checkout locally.
 Then you can test executing the release by
 
 ```
-$ cd multi-project-single-version
+$ cd multi-project-multiple-versions
 $ ./gradlew release
 ```
 
 On windows you would do
 
 ```
-$ cd multi-project-single-version
+$ cd multi-project-multiple-versions
 $ gradlew.bat release
 ```
 
